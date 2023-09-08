@@ -2,6 +2,10 @@
 
 Hey there, meme enthusiast! Welcome to my Meme Generator project. This is a fun project I put together to showcase my skills in React. You can use this web app to create your own custom memes by adding text to random meme images. Let's get started!
 
+<h2>Demo 🔥</h2>
+    
+<p>You can try out Meme Generator live by visiting <a href="https://react-meme-generator-dc.netlify.app/">Meme Generator</a>. Have fun making custom memes!</p>
+
 <h2>Features 🌟</h2>
 - Random Meme Images: Get a random meme image to kickstart your meme creativity.
 - Customizable Text: Add your own funny text to the meme image and let the hilarity ensue.
